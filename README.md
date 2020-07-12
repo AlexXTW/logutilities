@@ -1,5 +1,7 @@
 # logutilities
 
+![Upload Python Package](https://github.com/AlexXTW/logutilities/workflows/Upload%20Python%20Package/badge.svg?branch=0.1)
+
 logutilities is a python library for quick logging of functions
 
 ## Installation
